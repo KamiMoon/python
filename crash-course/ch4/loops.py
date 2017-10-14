@@ -14,9 +14,16 @@ print(numbers)
 
 # min, max, sum on list of numbers
 
-#list comprehension:  like a for loop to populat a list
-
-
+#list comprehension:  like a for loop to populating a list
 squares = [value**2 for value in range(1, 11)]
 print(squares)
 
+#slicing a list
+# stops 1 index before the index you specify, like range
+
+# [:3] - first 3
+
+# [:] - copy
+
+
+# Tuples - immutable lists that use (800, 700)

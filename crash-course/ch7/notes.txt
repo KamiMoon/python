@@ -1,0 +1,14 @@
+input() pauses program and waits for input
+
+message = input("Tell me")
+print(message)
+
+#Use int() to convert string to int
+
+#Python 2.7 raw_input()
+
+
+while condition:
+
+
+#break and continue - as expected
