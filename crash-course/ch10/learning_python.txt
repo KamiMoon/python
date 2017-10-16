@@ -1,0 +1,5 @@
+In Python you can use lists
+In Python you can use tuples
+In Python you can used dictionaries
+In Python you can use functions
+In Python you can use classes

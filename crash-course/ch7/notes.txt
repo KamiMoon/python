@@ -12,3 +12,9 @@ while condition:
 
 
 #break and continue - as expected
+
+sandwich_orders = ['pastrami', 'Ham', 'pastrami', 'Cheese', 'Beef', 'pastrami']
+
+
+while 'pastrami' in sandwich_orders:
+    sandwich_orders.remove('pastrami')
